@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Timber Devel
- * Plugin URI: https://github.com/hallowichig0/timber-devel/
+ * Plugin URI: https://github.com/jaysonegarcia/timber-devel/
  * Description: This plugin will enable symfony var_dumper & twig template suggestion file.
  * Version: 1.0.0
- * Author: Jayson Garcia (Github - hallowichig0)
- * Author URI: https://hallowichig0.github.io
+ * Author: Jayson Garcia (Github - jaysonegarcia)
+ * Author URI: https://jaysonegarcia.github.io
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */

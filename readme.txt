@@ -1,5 +1,5 @@
 === Timber Devel ===
-Contributors: hallowichig0
+Contributors: jaysonegarcia
 Tags: timber, twig, symfony, debug
 Requires at least: 3.8
 Tested up to: 5.5
@@ -13,7 +13,7 @@ Package which provides some extra debugging options for [Timber](https://github.
 ------------
 To install the latest stable version of this component, open a console and execute the following command:
 
-`composer require hallowichig0/timber-devel`
+`composer require jaysonegarcia/timber-devel`
 
 
 == Usage ==

@@ -1,13 +1,13 @@
 {
-    "name": "hallowichig0/timber-devel",
+    "name": "jaysonegarcia/timber-devel",
     "license": "GPLv2 or later",
     "description": "This plugin will enable symfony var_dumper & twig template suggestion file.",
-    "homepage": "https://github.com/hallowichig0/timber-devel",
+    "homepage": "https://github.com/jaysonegarcia/timber-devel",
     "authors": [
         {
             "name": "Jayson Garcia",
             "email": "garciajayson502@gmail.com",
-            "homepage": "https://hallowichig0.github.io"
+            "homepage": "https://jaysonegarcia.github.io"
         }
     ],
     "keywords": [
